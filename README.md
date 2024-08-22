@@ -9,6 +9,7 @@ Welcome to the PhysicsLab repository for Urmia University's Physics Lab 2 course
   - [Introduction 🚀](#introduction-)
   - [Directory Structure 📁](#directory-structure-)
   - [Reports 📊](#reports-)
+  - [Videos 🎥](#videos-)
   - [Resources 📚](#resources-)
   - [Acknowledgments 🙏](#acknowledgments-)
   - [License 📝](#license-)
@@ -47,6 +48,15 @@ Root of the Repo:
 ├── Pamphlet
 │   ├── PhysicsLab2 (High-Quality).pdf
 │   └── PhysicsLab2 (Low-Quality).pdf
+├── Videos
+│   ├── 1596.mp4
+│   ├── 1610.mp4
+│   ├── 1611.mp4
+│   ├── 1618.mp4
+│   ├── 1621.mp4
+│   ├── 1631.mp4
+│   ├── 1634.mp4
+│   └── 1637.mp4
 └── README.md
 ```
 
@@ -58,6 +68,21 @@ This repository includes two main directories for reports: `LegacyReports` and `
 |---------|--------|
 | Legacy Reports | [Legacy Reports](./LegacyReports) |
 | Original Reports | [Original Reports](./OriginalReports) |
+
+## Videos 🎥
+
+The `Videos` directory contains a collection of videos that complement the reports and experiments. These videos provide visual demonstrations of various physics experiments conducted during the course:
+
+| Video Files | Link 🔗 |
+|-------------|--------|
+| 1596.mp4 | [1596.mp4](./Videos/1596.mp4) |
+| 1610.mp4 | [1610.mp4](./Videos/1610.mp4) |
+| 1611.mp4 | [1611.mp4](./Videos/1611.mp4) |
+| 1618.mp4 | [1618.mp4](./Videos/1618.mp4) |
+| 1621.mp4 | [1621.mp4](./Videos/1621.mp4) |
+| 1631.mp4 | [1631.mp4](./Videos/1631.mp4) |
+| 1634.mp4 | [1634.mp4](./Videos/1634.mp4) |
+| 1637.mp4 | [1637.mp4](./Videos/1637.mp4) |
 
 ## Resources 📚
 
@@ -74,6 +99,7 @@ The repository also contains supplementary resources such as course pamphlets an
 Special thanks to:
 - [Matin Sojoudi](https://github.com/Matinsojoudi)
 - [Sina Bahrami](https://github.com/meta-syfu)
+- [Mohaddese Ghaffari](https://github.com/mohaddeseghaffari)
 
 for their invaluable help and support in gathering and organizing the resources in this repository.
 
